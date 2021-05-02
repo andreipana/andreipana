@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreipana
+- 👋 Hi, I’m @andreipana. Find more about me here: [andreipana.net](http://andreipana.net/).
 - 👀 I’m interested in C#/.Net, WPF, WinUI, Maui, Windows desktop programming, ASP.Net, Blazor, Web programming, software design, code design.
 - 🌱 I’m currently learning how to write code better.
 - 💞️ I’m looking to collaborate on WPF and Blazor projects, or pretty much anything else that brings value to the humanity.
